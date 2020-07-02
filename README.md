@@ -1,3 +1,3 @@
 # P-Distribution
-### Implementation of Gaussian distribution and custom probabilty distribution. 
-### Application of perlin noise in a Random Walk experiment. 
+Implementation of concept of probability distributions
+#### Gaussian distribution | Custom probabilty distribution | Perlin noise | Random Walk experiment. 
